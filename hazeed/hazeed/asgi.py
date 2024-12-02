@@ -1,5 +1,5 @@
 """
-ASGI config for haze project.
+ASGI config for hazeed project.
 
 It exposes the ASGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.asgi import get_asgi_application
 
-os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'haze.settings')
+os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'hazeed.settings')
 
 application = get_asgi_application()

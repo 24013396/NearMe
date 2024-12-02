@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 28-11-2024
+## Date: 02-12-2024
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -163,11 +163,11 @@ temple.html
 
 ## OUTPUT
 ![alt text](1.png)
-![alt text](2.png)
-![alt text](3.png)
-![alt text](4.png)
-![alt text](5.png)
-![alt text](6.png)
+![alt text](<2 (2).png>)
+![alt text](<3 (2).png>)
+![alt text](<4 (2).png>)
+![alt text](<5 (2).png>)
+![alt text](<6 (2).png>)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
